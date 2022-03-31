@@ -1,5 +1,5 @@
-- 👋 Ahoj, já jsem Michaela, je mi 31 let a pocházím z Kolína.
-- 👀 Hledám práci v oboru programování.
+- 👋 Jmenuji se Michaela, je mi 31 let a pocházím z Kolína.
+- 👀 Aktuálně hledám práci v oboru programování.
 - 🌱 Momentálně se učím tvorbu webových aplikací v C# jazyce.
 - 📫 Napište mi na email: michaela.med@seznam.cz
 
